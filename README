@@ -1,1 +1,6 @@
 WordPress Multi-Site preconfigured with Network turned on and the Domain Mapping Plugin installed
+
+WordPress MU Domain Mapping Plugin
+http://wordpress.org/extend/plugins/wordpress-mu-domain-mapping/
+
+All you need to do is update the wp-config.php file with your database information and you are set to run WordPress Multi-Site with multiple domains.
